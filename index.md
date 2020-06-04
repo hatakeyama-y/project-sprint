@@ -1,5 +1,5 @@
 ---
-layout:  home
+layout: page
 ---
 
 ![Project Sprint](images/pjs_logo.png)
